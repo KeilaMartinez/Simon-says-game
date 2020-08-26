@@ -1,24 +1,20 @@
-# _SIMON SAYS GAME_
+# Hyperblog 💚
 
-#####Game description
+Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 
-is it a game very funny. where you can put a test your memory. it is time to have fun.
+> El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
+>
+> - niñita
 
-> this is project final of the course "javaScript fundamentals" by platzi.
+## En este curso vemos de todo
 
-![](https://i.ibb.co/NnMv1m3/captura-juego.png" alt="captura-juego")
+- Todos los comandos de Git
+- El flujo de trabajo en Github
+- El verdadero amor por las buenas prácticas
+- Trucos muy locos del profesor
+- Las personalidades múltiples de Freddy
+- creado por el increible platzi team
+- incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades
 
-####languages ​​used
-
-- HTML
-- CSS
-- javaScript
-
-####concepts learned
-
-- callbacks
-- funtions
-- used this
-- Async - await
-
-If you game enter the following link `<link>` : <https://github.com>
+Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
