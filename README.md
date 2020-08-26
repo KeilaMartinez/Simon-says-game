@@ -10,7 +10,7 @@ is it a game very funny. where you can put a test your memory. it is time to hav
 
 - HTML
 - CSS
-- javaScript
+- javaScript iii
 
 ## concepts learned
 
