@@ -4,7 +4,7 @@ is it a game very funny. where you can put a test your memory. it is time to hav
 
 > this is project final of the course "javaScript fundamentals" by platzi. [Platzi](https://platzi.com/ "Platzi")
 
-![img](https://i.ibb.co/NnMv1m3/captura-juego.png" alt="captura-juego")
+![img](https://i.ibb.co/NnMv1m3/captura-juego.png")
 
 ## languages ​​used
 
