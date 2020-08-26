@@ -1,10 +1,10 @@
 # SIMON SAYS GAME 💚
 
-is it a game very funny. where you can put a test your memory. it is time to have fun. [Platzi](https://platzi.com/ "Platzi")
+is it a game very funny. where you can put a test your memory. it is time to have fun.
 
-> this is project final of the course "javaScript fundamentals" by platzi.[Platzi](https://platzi.com/ "Platzi")
+> this is project final of the course "javaScript fundamentals" by platzi. [Platzi](https://platzi.com/ "Platzi")
 
-![](https://i.ibb.co/NnMv1m3/captura-juego.png" alt="captura-juego")
+![img](https://i.ibb.co/NnMv1m3/captura-juego.png" alt="captura-juego")
 
 ## languages ​​used
 
