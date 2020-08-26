@@ -1,4 +1,4 @@
-# \**\*\* *SIMON SAYS GAME\*
+# _SIMON SAYS GAME_
 
 #####Game description
 
