@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Simon Dice</title>
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Passion+One:wght@700&family=Russo+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/estilos.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="header_title">
+        <h1>SIMON SAYS GAME</h1>
+        <h2>Nivel: <span  id="nivel">1</span></h2>
+        <h3>Puntos: <span id="puntos">0</span></h3>
+</header>
+    <div class="container">
+      <div class="container_gameboard">
+        <div id="celeste" class="color celeste left" data-color="celeste"></div>
+        <div
+          id="violeta"
+          class="color violeta right"
+          data-color="violeta"
+        ></div>
+        <div id="naranja" class="color naranja left" data-color="naranja"></div>
+        <div id="verde" class="color verde right" data-color="verde"></div>
+       <button id="btnEmpezar" class="btn-start" onclick="empezarJuego()">
+          Empezar a jugar!
+        </button>
+      </div>
+    </div>
+
+    <section class="sound__secuencia">
+      <audio id="sound_do" src="./sound/Nota_do.wav"></audio>
+      <audio id="sound_re" src="./sound/Nota_re.wav"></audio>
+      <audio id="sound_mi" src="./sound/Nota_mi.wav"></audio>
+      <audio id="sound_fa" src="./sound/Nota_fa.wav"></audio>
+      <audio id="sound_win" src="sound/iniciar.mp3"></audio>
+      <audio id="sound_lose" src="sound/perdio.mp3"></audio>
+    </section>
+ <footer class="footer">
+        <div class="container-footer">
+        <div>
+          <p>
+            Made by Keila Luz Martinez
+          </p>
+        </div>
+        <div>
+          <p>
+            <a href="https://twitter.com/thespianartist"> thespianartist</a>
+          </p>
+        </div>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+    <script>
+      function sound(src) {
+        this.sound = document.createElement("audio");
+        this.sound.src = src;
+        this.sound.setAttribute("preload", "auto");
+        this.sound.setAttribute("controls", "none");
+        this.sound.style.display = "none";
+        document.body.appendChild(this.sound);
+        this.play = function () {
+          this.sound.play();
+        };
+        this.stop = function () {
+          this.sound.pause();
+        };
+      }
+    </script>
+    <script src="./js/code.js"></script>
+  </body>
+</html>
