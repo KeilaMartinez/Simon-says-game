@@ -9,7 +9,7 @@ const sound_mi = document.getElementById("sound_mi");
 const sound_fa = document.getElementById("sound_fa");
 const sound_lose = document.getElementById("sound_lose");
 const sound_win = document.getElementById("sound_win");
-const ULTIMO_NIVEL = 14;
+const ULTIMO_NIVEL = 15;
 var myMusic;
 
 class Juego {
