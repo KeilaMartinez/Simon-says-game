@@ -19,4 +19,4 @@ is it a game very funny. where you can put a test your memory. it is time to hav
 - used this
 - Async - await
 
-If you game enter the following link: [**game**](https://github.com "game").
+If you game enter the following link: [**game**](https://keilamartinez.github.io/Simon-says-game/ "game").
